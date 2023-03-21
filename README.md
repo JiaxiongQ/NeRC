@@ -12,3 +12,15 @@ Our code is built on [NeuS](https://github.com/Totoro97/NeuS) project.
 Our synthetic dataset is constructed by using [Blender](https://www.blender.org/) project. 
 
 Thanks for these great projects!
+
+## Citation 
+If you use our code or method in your work, please cite the following:
+```
+@article{qiu2023NeRC,
+  title={NeRC: Rendering Planar Caustics by Learning Implicit Neural Representations},
+  author={Qiu, Jiaxiong and Yin, Ze-Xin and Cheng, Ming-Ming and Ren, Bo},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2023},
+  publisher={IEEE}
+}
+```
