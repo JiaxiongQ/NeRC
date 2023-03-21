@@ -1,5 +1,5 @@
 # NeRC
-This is the official repo for the implementation of "NeRC: Rendering Planar Caustics by Learning Implicit Neural Representations" paper (TVCG 2023).
+This is the official repo for the implementation of "[NeRC: Rendering Planar Caustics by Learning Implicit Neural Representations](https://ieeexplore.ieee.org/document/10077440)" paper (TVCG 2023).
 
 [View Integration Demo](https://drive.google.com/file/d/1B75y9nLnYgnCDbXHIw9cDqsGaO-b5wua/view?usp=sharing)
 
