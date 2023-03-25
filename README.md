@@ -3,8 +3,10 @@ This is the official repo for the implementation of "[NeRC: Rendering Planar Cau
 
 [View Integration Demo](https://drive.google.com/file/d/1B75y9nLnYgnCDbXHIw9cDqsGaO-b5wua/view?usp=sharing)
 
-We will release our code and dataset soon!
+We will release our code soon!
 
+# Synthetic Dataset
+[Google Drive](https://drive.google.com/file/d/1jG9UNGPTreJo_fJTiDNEPpicDN2Lnvbx/view?usp=share_link)
 
 ## Acknowlegement
 Our code is built on [NeuS](https://github.com/Totoro97/NeuS) project. 
