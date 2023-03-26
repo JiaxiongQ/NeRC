@@ -5,7 +5,7 @@ This is the official repo for the implementation of "[NeRC: Rendering Planar Cau
 
 We will release our code soon!
 
-# Synthetic Dataset
+## Synthetic Dataset
 [Google Drive](https://drive.google.com/file/d/1jG9UNGPTreJo_fJTiDNEPpicDN2Lnvbx/view?usp=share_link)
 
 ## Acknowlegement
